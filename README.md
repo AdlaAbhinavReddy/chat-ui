@@ -61,7 +61,8 @@ You can deploy this static site for free using:
 
 ## 🙋 Author
 
-**Varakumar**
+**Adla Abhinav Reddy**
+- GitHub: [@AdlaAbhinavReddy](https://github.com/AdlaAbhinavReddy)
 - Project built as part of the Nxtwave CCBP 4.0 Program
 
 ## 📄 License
